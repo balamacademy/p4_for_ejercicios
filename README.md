@@ -49,35 +49,44 @@ Alto : 3
 ```
 
 ## Ejercicio 6
-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es par o impar.
+Escribir un programa que pida la alura de un triangulo e imprimalo en pantalla.
+```
+Alto : 4
+   *
+  ***
+ *****
+*******
+```
 
 ## Ejercicio 7
-Escriba un programa que pida el año actual y un año cualquiera y que escriba cuántos años han pasado desde ese año o cuántos años faltan para llegar a ese año
+Escribir un programa que pida el lado de un exhagono e imprimalo en pantalla.
+```
+Lado : 5
+    *****
+   *******
+  *********
+ ***********
+*************
+ ***********
+  *********
+   *******
+    *****
+```
 
 ## Ejercicio 8
-Escriba un programa que pida tres números y que escriba si son los tres iguales, si hay dos iguales o si son los tres distintos.
+Calcula el número de PI con el método de Lebniz
 
 ## Ejercicio 9
-Escriba un programa que pida un año y que escriba si es bisiesto o no.
-
-Se recuerda que los años bisiestos son múltiplos de 4, pero los múltiplos de 100 no lo son, aunque los múltiplos de 400 sí.
+Calcula el número de Euler.
 
 ## Ejercicio 10
-Escriba un programa que pida los coeficientes de una ecuación de primer grado (a x + b = 0) y escriba la solución.
-
-Se recuerda que una ecuación de primer grado puede no tener solución, tener una solución única, o que todos los números sean solución. Se recuerda que la fórmula de las soluciones es x = -b / a
-
-Estos son algunos ejemplos de posibles respuestas (el orden de los ejemplos no tiene por qué corresponder con el orden de las condiciones):
-
+Escriba un programa que pida un N números y calcule, el MENOR, el MAYOR, Y la MEDIA
 ```
-ECUACIÓN A X + B = 0
-Escriba el valor del coeficiente a: 0
-Escriba el valor del coeficiente b: 3
-La ecuación no tiene solución.
-```
-```
-ECUACIÓN A X + B = 0
-Escriba el valor del coeficiente a: 4.2
-Escriba el valor del coeficiente b: 21
-La ecuación tiene una solución: -5.0
+Numeros a ingresar: 3
+Numero 1: 3
+Numero 2: 4
+Numero 3: 2
+Menor = 2
+Mayor = 4
+Media = 3
 ```
