@@ -74,10 +74,12 @@ Lado : 5
 ```
 
 ## Ejercicio 8
-Calcula el número de PI con el método de Lebniz
+Calcula el número de PI con el método de Lebniz, entre más grande el valor de N mas preciso el valor de PI
+![image](https://github.com/balamacademy/p4_for_ejercicios/assets/5318519/1a5d7d78-94fe-4d7f-bda7-b04a1b30264d)
 
 ## Ejercicio 9
 Calcula el número de Euler.
+![image](https://github.com/balamacademy/p4_for_ejercicios/assets/5318519/c254a428-a613-4330-b75c-f2ebe23fd62a)
 
 ## Ejercicio 10
 Escriba un programa que pida un N números y calcule, el MENOR, el MAYOR, Y la MEDIA
